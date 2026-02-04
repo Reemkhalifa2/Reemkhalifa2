@@ -1,16 +1,14 @@
-## Hi there 👋
+🚀 About Me
+Software Engineering graduate from the University of Technology and Applied Sciences – Nizwa.
+I’m passionate about building practical applications, analyzing data to support better decisions, and continuously learning new technologies. I enjoy turning ideas into real solutions and improving systems through thoughtful design and analysis.
+🎓 Education
+B.Sc. in Software Engineering
+University of Technology and Applied Sciences
 
-<!--
-**Reemkhalifa2/Reemkhalifa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack
+Languages
+Java · Python · JavaScript · PHP · HTML · CSS
 
-Here are some ideas to get you started:
+⚡Frameworks & Tools
+React.js · Node.js · Flask · Firebase · MySQL · KNIME · Git ·
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
