@@ -5,7 +5,9 @@
 <p align="center">
 Passionate about building scalable applications, solving problems, and learning new technologies.
 </p>
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Software+Engineer;Passionate+about+Technology;Always+Learning+New+Things">
+</p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=reemkhalifa2&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
@@ -55,7 +57,4 @@ Passionate about building scalable applications, solving problems, and learning 
 
 </p>
 
----
 
-### ✨ Fun Fact
-💡 I enjoy building projects that combine **AI, data, and full-stack development**.
