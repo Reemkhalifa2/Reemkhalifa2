@@ -35,6 +35,10 @@ Passionate about building scalable applications, solving problems, and learning 
 
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=reemkhalifa2&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ### 📊 GitHub Statistics
