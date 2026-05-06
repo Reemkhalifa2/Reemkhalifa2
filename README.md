@@ -13,7 +13,7 @@ Passionate about building scalable applications, solving problems, and learning 
 ### 🚀 About Me
 - 🎓 Software Engineering Graduate  
 - 💻 Full Stack Developer  
-- 🌱 Always learning new technologies  
+<!--- 🌱 Always learning new technologies  --->
 - 📫 Reach me at: **aladawi12reem6@gmail.com**
 
 ---
